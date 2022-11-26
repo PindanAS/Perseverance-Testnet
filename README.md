@@ -1,3 +1,5 @@
+![logo](https://cdn.idntimes.com/content-images/community/2022/05/picsart-05-24-074237-96c643083b5e2021517d88d0c59b613c-84f974841110971f02b821222b6a34c0.jpg)
+
 # Perseverance-Testnet Chainflip 
 ## Persyaratan Minimum untuk mengikuti chainflip testnet
 ***
@@ -23,3 +25,4 @@ Komponen | Spek
 -------- | ----
 Sistem Operasi | Ubuntu 16.04 or UP
 
+>[Docs Referensi](https://docs.chainflip.io/perseverance-validator-documentation/)
